@@ -31,13 +31,13 @@
 ### 2.2 Clasificación de Variables
 - Variables cualitativas nominales
 - Variables cualitativas ordinales
-- Variables cuantitativas discretas
-- Variables cuantitativas continuas
+- Variables cuantitativas discretas (numeros sin decimales)
+- Variables cuantitativas continuas (numeros con decimales)
 
 ### 2.3 Análisis de Cardinalidad
 - Valores únicos por variable
-- Frecuencias de categorías
-- Identificación de categorías raras
+- Frecuencias de categorías (cuantos únicos hay)
+- Identificación de categorías raras (datos no concretos EJ: año? no te lo digo)
 - Evaluación de granularidad
 
 ## 3. Limpieza y Preparación
