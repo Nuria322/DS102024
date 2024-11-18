@@ -49,6 +49,7 @@
 - Validación post-imputación
 
 ### 3.2 Transformaciones
+- Analisis de missing
 - Conversión de tipos de datos
 - Normalización/Estandarización
 - Codificación de variables categóricas
