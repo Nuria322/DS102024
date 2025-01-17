@@ -32,6 +32,7 @@ liac-arff = "^2.5.0"
 openpyxl = "^3.1.5"
 pyarrow = "^18.0.0"
 missingno = "^0.5.2"
+orjson = "^3.10.14"
 
 
 [build-system]
