@@ -176,3 +176,6 @@ Prof/
 2-DataAnalysis/7-WebScraping/1_HTTP_Inicial/Practica/novedades_biografia.csv
 2-DataAnalysis/8-RegEx/Teoria/data/DSM.txt
 3-MachineLearning/2-Supervisado/2-RegresionLineal/Ejercicios/df_limpio.parquet
+3-MachineLearning/2-Supervisado/Ejercicios/data/sample_submission.csv
+3-MachineLearning/2-Supervisado/Ejercicios/data/test.csv
+3-MachineLearning/2-Supervisado/Ejercicios/data/train.csv
