@@ -33,6 +33,7 @@ openpyxl = "^3.1.5"
 pyarrow = "^18.0.0"
 missingno = "^0.5.2"
 orjson = "^3.10.14"
+optuna = "^4.2.0"
 
 
 [build-system]
