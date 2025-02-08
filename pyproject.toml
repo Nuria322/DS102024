@@ -33,6 +33,10 @@ openpyxl = "^3.1.5"
 pyarrow = "^18.0.0"
 missingno = "^0.5.2"
 orjson = "^3.10.14"
+<<<<<<< HEAD
+=======
+scikit-optimize = "^0.10.2"
+>>>>>>> upstream/main
 optuna = "^4.2.0"
 
 
