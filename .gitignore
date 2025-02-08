@@ -185,3 +185,5 @@ Dataset/
 >>>>>>> upstream/main
 3-MachineLearning/2-Supervisado/5-Arboles/img/regression_tree.dot
 3-MachineLearning/2-Supervisado/5-Arboles/img/iris_tree.dot
+3-MachineLearning/2-Supervisado/6-Ensemble/datasets/housing.tgz
+3-MachineLearning/2-Supervisado/6-Ensemble/datasets/housing/housing.csv
