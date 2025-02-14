@@ -188,3 +188,4 @@ Dataset/
 3-MachineLearning/2-Supervisado/6-Ensemble/datasets/housing.tgz
 3-MachineLearning/2-Supervisado/6-Ensemble/datasets/housing/housing.csv
 3-MachineLearning/2-Supervisado/Ejercicios/PruebaTecnica/Datos_escalados.csv
+3-MachineLearning/2-Supervisado/Ejercicios/df_limpio.parquet
