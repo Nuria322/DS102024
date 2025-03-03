@@ -193,3 +193,7 @@ Dataset/
 3-MachineLearning/9-ML/train.snappy
 pyproject.toml
 3-MachineLearning/2-Supervisado/7-TimeSeries/Practica/model.json
+3-MachineLearning/7-DeepLearning/1-RNN/my_weights.weights.h5
+3-MachineLearning/7-DeepLearning/1-RNN/my_keras_model.keras
+3-MachineLearning/7-DeepLearning/1-RNN/my_checkpoints.weights.h5
+3-MachineLearning/7-DeepLearning/.python-version
