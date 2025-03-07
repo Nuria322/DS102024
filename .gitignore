@@ -196,3 +196,4 @@ pyproject.toml
 3-MachineLearning/7-DeepLearning/2-CNN/data.zip
 *.zip
 2-CNN\data.zip
+*.jpg
