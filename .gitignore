@@ -167,7 +167,6 @@ Prof/
 6-Poo_Proyecto/
 *.DS_Store
 .DS_Store/
-<<<<<<< HEAD
 2-DataAnalysis/10-EDA/Mi_EDA/MentalHealthSurvey.csv
 2-DataAnalysis/10-EDA/Mi_EDA/MentalHealthSurvey.csv
 2-DataAnalysis/10-EDA/Missing_pro.ipynb
@@ -180,9 +179,6 @@ Prof/
 3-MachineLearning/2-Supervisado/Ejercicios/data/sample_submission.csv
 3-MachineLearning/2-Supervisado/Ejercicios/data/test.csv
 3-MachineLearning/2-Supervisado/Ejercicios/data/train.csv
-=======
-Dataset/
->>>>>>> upstream/main
 3-MachineLearning/2-Supervisado/5-Arboles/img/regression_tree.dot
 3-MachineLearning/2-Supervisado/5-Arboles/img/iris_tree.dot
 3-MachineLearning/2-Supervisado/6-Ensemble/datasets/housing.tgz
@@ -198,3 +194,5 @@ pyproject.toml
 3-MachineLearning/7-DeepLearning/1-RNN/my_checkpoints.weights.h5
 3-MachineLearning/7-DeepLearning/.python-version
 3-MachineLearning/7-DeepLearning/2-CNN/data.zip
+*.zip
+2-CNN\data.zip
