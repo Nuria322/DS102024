@@ -197,3 +197,4 @@ pyproject.toml
 3-MachineLearning/7-DeepLearning/1-RNN/my_keras_model.keras
 3-MachineLearning/7-DeepLearning/1-RNN/my_checkpoints.weights.h5
 3-MachineLearning/7-DeepLearning/.python-version
+3-MachineLearning/7-DeepLearning/2-CNN/data.zip
