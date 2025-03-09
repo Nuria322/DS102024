@@ -198,3 +198,5 @@ pyproject.toml
 2-CNN\data.zip
 *.jpg
 pyproject.toml
+3-MachineLearning/7-DeepLearning/1-RNN/Practica/Sentiment Analysis Dataset.csv
+3-MachineLearning/7-DeepLearning/1-RNN/Practica/All's Well That Ends Well.txt
