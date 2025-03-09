@@ -197,3 +197,4 @@ pyproject.toml
 *.zip
 2-CNN\data.zip
 *.jpg
+pyproject.toml

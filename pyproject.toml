@@ -37,6 +37,7 @@ optuna = "^4.2.0"
 pmdarima="*"
 skforecast="*"
 shap = "^0.46.0"
+lime = "^0.2.0.1"
 
 [build-system]
 requires = ["poetry-core"]
