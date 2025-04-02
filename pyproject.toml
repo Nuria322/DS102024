@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "bootcamp-ds"
+name = "bootcamp"
 version = "0.1.0"
 description = ""
 authors = ["Juan_Maniglia <90753457+JuanManiglia@users.noreply.github.com>"]
@@ -34,6 +34,8 @@ orjson = "^3.10.14"
 optuna = "^4.2.0"
 mypy = "^1.15.0"
 seaborn = "^0.13.2"
+pytest = "^8.3.5"
+pytest-cov = "^6.1.0"
 
 [build-system]
 requires = ["poetry-core"]
