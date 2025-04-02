@@ -1,6 +1,6 @@
 def calcular_total_con_impuesto(monto, tasa_impuesto=0.16):
     """Calcula el monto total incluyendo impuestos."""
-    return monto * (1 + tasa_impuesto)
+    return round(monto * (1 + tasa_impuesto))
 
 def test_calcular_total_con_impuesto():
     # Caso 1: Impuesto por defecto (16%)
