@@ -206,3 +206,5 @@ pyproject.toml
 3-MachineLearning/7-DeepLearning/1-RNN/Practica/bike_sharing_data/hour.csv
 3-MachineLearning/7-DeepLearning/3-NLP/NLTK&CountVectorizer/dataNLP/output/data_processed.csv
 3-MachineLearning/7-DeepLearning/3-NLP/NLTK&CountVectorizer/dataNLP/output/finished_model.model
+4-DataEngineer/PolarsPySpark/etl_example/output/nyc_taxi.db
+4-DataEngineer/PolarsPySpark/data/processed/yellow_tripdata.parquet
